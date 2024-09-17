@@ -176,6 +176,14 @@
 
 ## 4. Feedback (For CF's)
 
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+[**Course Facilitator name**]
+
+Alexander
+
+[*What went well*]
+
+Very good example of a progress log. All topics are well explained and supported with code snippets. It also shows some interest in covering some areas that usually are overlooked, like accessibility.
+
+[*Even better if*]
+
+Feel free to curate your code snippets a bit more. The idea is to keep them as short as possible while still providing enough info to support the topic you're explaining. There's no need to keep your code identical to the original.
