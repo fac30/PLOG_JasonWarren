@@ -4,16 +4,12 @@
 
 ## Achievements
 
-### Theme
-
 <details>
-    <summary>Topic</summary>
+<summary><strong>Topic</strong></summary>
 
 ---
 
 Content
-
----
 </details>
 
 ---
@@ -21,13 +17,11 @@ Content
 ## Difficulties
 
 <details>
-    <summary>Topic</summary>
+<summary><strong>Topic</strong></summary>
 
 ---
 
 Content
-
----
 </details>
 
 ---

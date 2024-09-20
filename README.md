@@ -3,10 +3,10 @@
 ## Binge-Read the Gripping Saga So Far
 
 - [Week 1](logs/Week_01.md)
+- [Week 2](logs/Week_02.md)
 
 ## Watch This Space for Exciting Future Installments
 
-- [Week 2](logs/Week_02.md)
 - [Week 3](logs/Week_03.md)
 - [Week 4](logs/Week_04.md)
 - [Week 5](logs/Week_05.md)
