@@ -121,8 +121,6 @@
 
 ## Feedback
 
-|                  |                         |
-| ---------------- | ----------------------- |
-| *Name*           |                         |
-| *What Went Well* |                         |
-| *Even Better If* |                         |
+*Name*: Alexander
+*What Went Well*: I love that you used not only code snippets, but also screenshots and even config files to explain your progress. Very well detailed and concise
+*Even Better If*: I just would like to see a bit of project management progress. But apart from that there is not much to improve, to be honest.
