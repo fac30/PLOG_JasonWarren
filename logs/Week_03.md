@@ -1,4 +1,4 @@
-# Week 3: 
+# Week 3: ?
 
 > [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week02-project02-chatbot/learning-outcomes/)
 
@@ -9,7 +9,7 @@
 
 ---
 
->
+> ?
 
 ```js
     
@@ -24,7 +24,7 @@
 
 ---
 
-> 
+> ?
 
 ```js
     
@@ -50,7 +50,7 @@
 
 ---
 
-> 
+> ?
 
 ```js
     
@@ -65,7 +65,7 @@
 
 ---
 
-> 
+> ?
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## Difficulties
 
-- 
+- ?
 
 ## Feedback
 
