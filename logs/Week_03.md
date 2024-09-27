@@ -1,4 +1,4 @@
-# Week 3: ?
+# Week 3: Back End (lol)
 
 - [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week03-project03-server/learning-outcomes/)
 
@@ -306,6 +306,8 @@ I also created a custom "Blocked" status alongside the standard "To Do", "In Pro
 - [X] Gain experience in using developer tooling, including IDEs, linters, and formatters, to enhance productivity (B3, B9)
 
 ---
+
+</details>
 
 ## 4. Feedback
 
