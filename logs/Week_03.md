@@ -1,6 +1,6 @@
 # Week 3: ?
 
-> [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week02-project02-chatbot/learning-outcomes/)
+> [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week03-project03-server/learning-outcomes/)
 
 ## Achievements
 
