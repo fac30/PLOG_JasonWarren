@@ -1,21 +1,84 @@
-## Guidance
-Answer the following questions considering the learning outcomes for
-- [Week 03](https://learn.foundersandcoders.com/course/syllabus/developer/week03-project03-server/learning-outcomes/)
+# Week 2: Async JS & Server Introduction
 
-Make sure to record evidence of your processes. You can use code snippets, screenshots or any other material to support your answers.
+> [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week02-project02-chatbot/learning-outcomes/)
 
-Do not fill in the feedback section. The Founders and Coders team will update this with feedback on your progress.
+## Achievements
 
-## Assessment
- ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+<details>
+<summary><strong>1. </strong></summary>
 
- ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+---
 
-## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+>
+
+```js
+    
+```
+
+---
+
+</details>
+
+<details>
+<summary><strong>2. </strong></summary>
+
+---
+
+> 
+
+```js
+    
+```
+
+</details>
+
+<details>
+<summary><strong>3. </strong></summary>
+
+---
+
+```json
+    
+```
+
+---
+
+</details>
+
+<details>
+<summary><strong>4. </strong></summary>
+
+---
+
+> 
+
+```js
+    
+```
+
+---
+
+</details>
+
+<details>
+<summary><strong>5. </strong></summary>
+
+---
+
+> 
+
+---
+
+</details>
+
+## Difficulties
+
+- 
+
+## Feedback
+
+|                  |                         |
+| ---------------- | ----------------------- |
+| *Name*           |                         |
+| *What Went Well* |                         |
+| *Even Better If* |                         |

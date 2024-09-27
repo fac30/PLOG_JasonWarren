@@ -5,26 +5,75 @@
 ## Achievements
 
 <details>
-<summary><strong>Topic</strong></summary>
+<summary><strong>1. </strong></summary>
 
 ---
 
-Content
+>
+
+```js
+    
+```
+
+---
+
 </details>
 
+<details>
+<summary><strong>2. </strong></summary>
+
 ---
+
+> 
+
+```js
+    
+```
+
+</details>
+
+<details>
+<summary><strong>3. </strong></summary>
+
+---
+
+```json
+    
+```
+
+---
+
+</details>
+
+<details>
+<summary><strong>4. </strong></summary>
+
+---
+
+> 
+
+```js
+    
+```
+
+---
+
+</details>
+
+<details>
+<summary><strong>5. </strong></summary>
+
+---
+
+> 
+
+---
+
+</details>
 
 ## Difficulties
 
-<details>
-<summary><strong>Topic</strong></summary>
-
----
-
-Content
-</details>
-
----
+- 
 
 ## Feedback
 
