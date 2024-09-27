@@ -1,4 +1,4 @@
-# Week 2: Async JS & Server Introduction
+# Week 3: 
 
 > [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/week02-project02-chatbot/learning-outcomes/)
 
