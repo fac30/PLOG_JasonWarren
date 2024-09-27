@@ -1,6 +1,6 @@
 # Week X: Topic
 
-> [Learning Outcomes]()
+> [Learning Outcomes](link)
 
 ## Achievements
 
@@ -9,7 +9,7 @@
 
 ---
 
->
+> ?
 
 ```js
     
@@ -24,7 +24,7 @@
 
 ---
 
-> 
+> ?
 
 ```js
     
@@ -50,7 +50,7 @@
 
 ---
 
-> 
+> ?
 
 ```js
     
@@ -65,7 +65,7 @@
 
 ---
 
-> 
+> ?
 
 ---
 
@@ -73,7 +73,7 @@
 
 ## Difficulties
 
-- 
+- ?
 
 ## Feedback
 
