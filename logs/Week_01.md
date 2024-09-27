@@ -12,11 +12,11 @@
 
 ---
 
-![Example 1](../images/week1-1.jpg)
+![Example 1](../images/week1/week1-1.jpg)
 
-![Example 2](../images/week1-2.jpg)
+![Example 2](../images/week1/week1-2.jpg)
 
-![Example 3](../images/week1-3.jpg)
+![Example 3](../images/week1/week1-3.jpg)
 
 ---
 
