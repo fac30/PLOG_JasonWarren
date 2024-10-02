@@ -313,6 +313,6 @@ I also created a custom "Blocked" status alongside the standard "To Do", "In Pro
 
 |                  |                         |
 | ---------------- | ----------------------- |
-| *Name*           |                         |
-| *What Went Well* |                         |
-| *Even Better If* |                         |
+| *Name*           |     Alex                |
+| *What Went Well* |     Perfect PL          |
+| *Even Better If* |  I wont change a comma  |
