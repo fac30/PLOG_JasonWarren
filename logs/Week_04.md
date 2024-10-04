@@ -4,6 +4,8 @@
 
 ## 1. Achievements
 
+<details><summary>Toggle List</summary>
+
 <details><summary><strong>Commit Messages</strong></summary>
 
 ---
@@ -155,6 +157,8 @@ It's also helping me write this progress log.
 ![Week 4 Workspace](../images/week4/week4workspace.jpg)
 
 ---
+</details>
+
 </details>
 
 ## 2. Difficulties
