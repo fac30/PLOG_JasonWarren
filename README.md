@@ -2,13 +2,20 @@
 
 ## Binge-Read the Gripping Saga So Far
 
-- [Week 1](logs/Week_01.md): *Galactic Getaways*
-- [Week 2](logs/Week_02.md): *Askbot Lives!*
-- [Week 3](logs/Week_03.md): *The Server That Wouldn't Serve*
+### Part 1: In Which Jason Revisits the Basics
+
+- [Week 1: *Galactic Getaways*](logs/Week_01.md)
+- [Week 2: *Askbot Lives!*](logs/Week_02.md)
+
+### Part 2: In Which Jason Grapples With New Concepts
+
+- [Week 3: *The Server That Wouldn't Serve*](logs/Week_03.md)
+- [Week 4: *You Frontin', Bruv?*](logs/Week_04.md)
+
+---
 
 ## Watch This Space for Exciting Future Installments
 
-- [Week 4](logs/Week_04.md)
 - [Week 5](logs/Week_05.md)
 - [Week 6](logs/Week_06.md)
 - [Week 7](logs/Week_07.md)
