@@ -1,81 +1,124 @@
-# Week X: Topic
+# Week X: xxx
 
-> [Learning Outcomes](link)
+- [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/)
 
-## Achievements
+## 1. Achievements
 
-<details>
-<summary><strong>1. </strong></summary>
+<details><summary><strong>Topic</strong></summary>
 
 ---
+Intro
 
-> ?
+```ts
+    // Code
+```
 
-```js
-    
+---
+</details>
+
+<details><summary><strong>Topic</strong></summary>
+
+---
+Intro
+
+```ts
+    // Code
+```
+
+---
+</details>
+
+<details><summary><strong>Topic</strong></summary>
+
+---
+Intro
+
+```ts
+    // Code
+```
+
+---
+</details>
+
+<details><summary><strong>Topic</strong></summary>
+
+---
+Intro
+
+```ts
+    // Code
 ```
 
 ---
 
-</details>
-
-<details>
-<summary><strong>2. </strong></summary>
+<details><summary><strong>Topic</strong></summary>
 
 ---
+Intro
 
-> ?
-
-```js
-    
-```
-
-</details>
-
-<details>
-<summary><strong>3. </strong></summary>
-
----
-
-```json
-    
+```ts
+    // Code
 ```
 
 ---
-
 </details>
 
-<details>
-<summary><strong>4. </strong></summary>
+<details><summary><strong>Topic</strong></summary>
 
 ---
+Intro
 
-> ?
-
-```js
-    
+```ts
+    // Code
 ```
 
 ---
-
 </details>
 
-<details>
-<summary><strong>5. </strong></summary>
+## 2. Difficulties
+
+<details><summary>Toggle List</summary>
 
 ---
 
-> ?
+- What
+
+---
+</details>
+
+## 3. Full Progress List
+
+<details><summary>Toggle Key</summary>
+
+---
+
+- [X] I feel like I've learned/demonstrated this skill in the past week
+- I have acquired some skill but need to develop further
+- [ ] I am not yet comfortable in this skill
 
 ---
 
 </details>
 
-## Difficulties
+<details><summary>Toggle List</summary>
 
-- ?
+---
 
-## Feedback
+### Topic
+
+- [X] What
+
+---
+
+### Additional
+
+- [X] What
+
+---
+
+</details>
+
+## 4. Feedback
 
 |                  |                         |
 | ---------------- | ----------------------- |
