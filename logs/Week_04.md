@@ -257,6 +257,6 @@ I'm not sure yet, but I think I need to search for resources that can help me un
 
 |                  |                         |
 | ---------------- | ----------------------- |
-| *Name*           |                         |
-| *What Went Well* |                         |
-| *Even Better If* |                         |
+| *Name*           |  Alexander              |
+| *What Went Well* |  Very detailed PLog, packed with good info and excellent examples    
+| *Even Better If* |   -                     |
