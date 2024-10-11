@@ -50,6 +50,7 @@ Intro
 ```
 
 ---
+</details>
 
 <details><summary><strong>Topic</strong></summary>
 
