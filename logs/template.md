@@ -10,7 +10,7 @@
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
@@ -22,7 +22,7 @@ Intro
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
@@ -34,7 +34,7 @@ Intro
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
@@ -46,7 +46,7 @@ Intro
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
@@ -58,7 +58,7 @@ Intro
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
@@ -70,7 +70,7 @@ Intro
 Intro
 
 ```ts
-    // Code
+	// Code
 ```
 
 ---
