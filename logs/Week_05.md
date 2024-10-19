@@ -9,7 +9,7 @@
 ---
 So organise! Very satisfy!
 
-![Cypress Organisation](../images/week05/Cypress.jpg)
+![Cypress Organisation](../assets/images/images_05/Cypress.jpg)
 
 ```ts
 	const app = { button: 'button[type="submit"]' };
@@ -61,7 +61,7 @@ name: Moodtime
 				color: red
 ```
 
-![terminal configs](../images/week05/terminal.gif)
+![terminal configs](../assets/images/images_05/terminal.gif)
 
 ---
 </details>
