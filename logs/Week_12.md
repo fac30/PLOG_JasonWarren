@@ -1,21 +1,51 @@
-## Guidance
-Answer the following questions considering the learning outcomes for
-- [Week 012](https://learn.foundersandcoders.com/course/syllabus/developer/week12-project05-DOTNET-deploy/learning-outcomes/)
+# Week X: xxx
 
-Make sure to record evidence of your processes. You can use code snippets, screenshots or any other material to support your answers.
+- [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/)
 
-Do not fill in the feedback section. The Founders and Coders team will update this with feedback on your progress.
+## 1. Achievements
 
-## Assessment
- ### 1. Show evidence of some of the learning outcomes you have achieved this week.
-> **[Learning outcomes...]**  
-> [your evidence here]
+## 2. Difficulties
 
- ### 2. Show an example of some of the learning outcomes you have struggled with and/or would like to re-visit.
-> [**Learning outcome...**]  
-> [your evidence here]
+<details>
+<summary>Toggle List</summary>
 
-## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
-> [*Even better if*]
+---
+
+- What
+
+---
+</details>
+
+## 3. Full Progress List
+
+### Key
+
+<details>
+<summary>Toggle Key</summary>
+
+---
+
+- [X] I feel like I've learned/demonstrated this skill in the past week
+- I have acquired some skill but need to develop further
+- [ ] I am not yet comfortable in this skill
+
+---
+
+</details>
+
+### List
+
+<details>
+<summary>Toggle List</summary>
+
+---
+
+</details>
+
+## 4. Feedback
+
+|                  |                         |
+| ---------------- | ----------------------- |
+| *Name*           |                         |
+| *What Went Well* |                         |
+| *Even Better If* |                         |

@@ -1,0 +1,14 @@
+{
+	"learn": {
+		"prefix": "learn",
+		"description": "learn",
+		"scope": "markdown",
+		"body": [
+			"### Topic",
+			"",
+			"- [X] What",
+			"",
+			"---"
+		]
+	}
+}

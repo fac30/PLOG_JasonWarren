@@ -207,7 +207,7 @@ Take terminal input from the user with literally one line of code? Yeah, thankyo
     }
 ```
 
-![Terminal Input](../images/week3/terminal.jpg)
+![Terminal Input](../images/week03/terminal.jpg)
 
 ---
 
@@ -219,29 +219,29 @@ Take terminal input from the user with literally one line of code? Yeah, thankyo
 
 I wanted to make sure we took advantage of Jira's capabilities without overwhelming anyone. One approach was to create custom views so that team members could hide irrelevant tasks.
 
-![Group by Person, Unfiltered](../images/week3/viewWho.jpg)
+![Group by Person, Unfiltered](../images/week03/viewWho.jpg)
 
 ---
 
 As the "done" column mounted, I also created a custom filter to hide completed tasks
 
-![Filter Menu](../images/week3/filterMenu.jpg)
+![Filter Menu](../images/week03/filterMenu.jpg)
 
-![Filter Rules](../images/week3/filterRule.jpg)
+![Filter Rules](../images/week03/filterRule.jpg)
 
-![Group by Person, Filtered](../images/week3/viewFilter.jpg)
+![Group by Person, Filtered](../images/week03/viewFilter.jpg)
 
 ---
 
 For stand-ups, I created an alternate view so we could see our progress across areas.
 
-![Group by Epics](../images/week3/viewEpics.jpg)
+![Group by Epics](../images/week03/viewEpics.jpg)
 
 ---
 
 I also created a custom "Blocked" status alongside the standard "To Do", "In Progress" & "Done", hidden by default. Then I used the Jira workflow designer to automatically block a task if it had an unresolved dependency and unblock it when ready
 
-![Workflow Designer](../images/week3/workflow.jpg)
+![Workflow Designer](../images/week03/workflow.jpg)
 
 ---
 </details>

@@ -109,7 +109,7 @@
 
 > This was ~~horrendous~~ a useful learning experience
 
-![debug with console.group](../images/week2/debug.jpg)
+![debug with console.group](../images/week02/debug.jpg)
 
 ---
 

@@ -11,7 +11,7 @@
 ---
 Realising that I was beginning to struggle to understand the impact of my team's code, I realised this probably meant that they, in turn, were struggling to understand my code.
 
-![commit messages](../images/week4/commit.jpg)
+![commit messages](../images/week04/commit.jpg)
 
 Since then, I've tried to be more conscientious about writing clear commit messages.
 
@@ -23,7 +23,7 @@ Since then, I've tried to be more conscientious about writing clear commit messa
 ---
 As we were trying to create a cohesive aesthetic across multiple components, I wanted to make sure that we could benefit from the shared components across the pages. Organising them according to their purpose made this easier to understand.
 
-![project structure](../images/week4/component.jpg)
+![project structure](../images/week04/component.jpg)
 
 I also suggested that we should create a `Content.tsx` component to act as the container for our pages.
 
@@ -150,11 +150,11 @@ I was able to do this quickly due to storing the `setCurrentPage()` function in 
 ---
 I discovered that VSCode has a feature called "Workspaces" that allows me to open multiple projects in the same editor. This helped a lot when making calls to our backend from our frontend.
 
-![vscode workspace](../images/week4/workspace.jpg)
+![vscode workspace](../images/week04/workspace.jpg)
 
 It's also helping me write this progress log.
 
-![Week 4 Workspace](../images/week4/week4workspace.jpg)
+![Week 4 Workspace](../images/week04/week4workspace.jpg)
 
 ---
 </details>
