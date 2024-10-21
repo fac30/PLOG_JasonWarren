@@ -1,15 +1,13 @@
-# Journal 07: Authentication
+# Authentication
 
 ## Curriculum
 
-- [Authentication Workshop](https://learn.foundersandcoders.com/learn/auth/)
-- [Authentication Challenge](https://github.com/foundersandcoders/auth-challenge)
+- [Workshop](https://learn.foundersandcoders.com/learn/auth/)
+- [Challenge](https://github.com/foundersandcoders/auth-challenge)
 
-### Authentication Workshop
+## Workshop
 
-#### Authentication Workshop Steps
-
-##### Using cookies for authentication
+### Using cookies for authentication
 
 Now we know how to use cookies to store info in the browser we can keep a user logged in. Once we’ve verified their password we can store a cookie that effectively says “this is oli”. On subsequent requests the server would read the cookie to find out which user it came from. E.g. the cookie might look like this: userid=1.
 
@@ -39,7 +37,7 @@ If the signature didn’t match the cookie will not be present in the object.
 
 You should use signed cookies for pretty much everything
 
-##### Stateless authentication flow 
+### Stateless authentication flow 
 
 Our current auth flow looks like this:
 
@@ -57,7 +55,7 @@ The server cannot log users out. Any device with a valid cookie is “logged in�
 The server cannot enforce expiry time, since users can edit their cookies in the browser.
 Ideally we need a system that lets us keep track of who is logged in on the server, so we can revoke that access when necessary.
 
-##### Session authentication flow 
+### Session authentication flow 
 
 Instead of storing all the user info in the cookie, we can just store a random “session ID” that corresponds to info stored in our DB. Now the cookie itself has no power, the server decides whether the user is logged in based on the session info.
 
@@ -138,11 +136,11 @@ function get(req, res) {
 }
 Since this logic will be repeated in any request that needs to check the session it would be worth abstracting into an Express middleware.
 
-#### Authentication summary
+### Authentication summary
 
 Things got a little complicated, so let’s recap our final authentication flow to make it clear:
 
-##### Signing up
+#### Signing up
 
 User submits their email and password
 Hash the password with BCrypt
@@ -151,7 +149,7 @@ Create new session in the DB
 Set a signed cookie with the session ID
 Redirect to whatever page comes next
 
-##### Logging in
+#### Logging in
 
 User submits their email and password
 Retrieve the stored user where email matches
@@ -160,7 +158,7 @@ If they match create a new session in the DB
 Set a signed cookie with the session ID
 Redirect to whatever page comes next
 
-##### Checking auth
+#### Checking auth
 
 Read the session ID from the signed cookie
 Retrieve the stored session from DB
@@ -171,7 +169,7 @@ Decide whether the user is allowed to see the page
 
 ---
 
-### Authentication Challenge
+## Authentication Challenge
 
 > Under Construction
 
