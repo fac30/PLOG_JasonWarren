@@ -1,4 +1,4 @@
-# Journal \#6: SQL
+# Journal 06: SQL
 
 ## SQLite Workshop
 
