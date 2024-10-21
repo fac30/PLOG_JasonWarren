@@ -231,6 +231,9 @@ No particular difficulties this week, but I look forward to getting deeper into 
 
 ## 4. Feedback
 
-| *Name* | *What Went Well* | *Even Better If* |
-| ------ | ---------------- | ---------------- |
-|        |                  |                  |
+*Name*
+Alexander
+
+*What Went Well*
+Very well detailed PLog. Exellent examples and lots of useful info. It is great that you kept learning Tailwind, even when you mentioned that you are not so interested in Front End Design itself.
+
