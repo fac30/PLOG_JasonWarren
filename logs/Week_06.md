@@ -236,4 +236,3 @@ Alexander
 
 *What Went Well*
 Very well detailed PLog. Exellent examples and lots of useful info. It is great that you kept learning Tailwind, even when you mentioned that you are not so interested in Front End Design itself.
-
