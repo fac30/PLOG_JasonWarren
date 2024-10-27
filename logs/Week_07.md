@@ -102,15 +102,157 @@ export default LogButtonQuantum
 </details>
 
 <details>
-<summary>SECTIONS TO FINISH</summary>
+<summary>Form Inputs with Autocomplete Attributes</summary>
 
 ---
 
-- Form Inputs with autocomplete attributes
-- One form, two submit Buttons
-- `{ action, setAction() }` State
-- 1 `handleSubmit()` to handle 2 routes
-- Using Regex to derive username from email
+The autocomplete attribute is a string that hints at what the input is for. It is used by browsers to pre-fill the input, and is also used by password managers to identify what kind of password is being used.
+
+```tsx
+<input
+	type="email"
+	placeholder="email"
+	autoComplete="section-login email"
+	value={email}
+	onChange={(e) => setEmail(e.target.value)}
+/>
+
+<input
+	type="password"
+	placeholder="Password"
+	autoComplete="section-login password"
+	value={password}
+	onChange={(e) => setPassword(e.target.value)}
+/>
+```
+
+The `section-` prefix is used to identify the input as part of a group called "login". This is especially useful for password managers, as it can help them identify when to autofill an input.
+
+As our ecommerce site grows, we will be adding more and more forms, and this method will help keep the user experience smooth.
+
+---
+</details>
+
+<details>
+<summary>One Form, Two Submit Buttons</summary>
+
+---
+
+To speed up our initial development of a full-stack authentication system, I wanted to have a single form that could be used for both login and signup.
+
+I created a `{ action, setAction }` state in the `LogInForm` component, and passed it down to the form's submit button.
+
+```tsx
+<button
+	type="submit"
+	onClick={() => setAction('login')}
+	className="button-tictac"
+>
+	Log In
+</button>
+
+<button
+	type="submit"
+	onClick={() => setAction('signup')}
+	className="button-tictac"
+>
+	Sign Up
+</button>
+```
+
+Clicking on either button does the following:
+
+1. The button's `onClick` handler sets the `action` state to either `"login"` or `"signup"`.
+2. The button's `type` attribute is set to `"submit"`, which calls the form's `onSubmit` handler.
+
+See the next section for the `onSubmit` handler.
+
+---
+</details>
+
+<details>
+<summary>The Biggest `onSubmit` Handler Ever Recorded</summary>
+
+---
+
+This component has admittedly grown absolutely unwieldy and will need some breaking apart, but I'm still pleased with it. I'll walk through a stripped down version, with most types, some error handling and some logging removed.
+
+```ts
+const { setIsLoggedIn } = useUser();
+const { setView } = useContext(StoreContext);
+
+const [action, setAction] = useState<'login' | 'signup'>();
+const [email, setEmail] = useState("");
+const [password, setPassword] = useState("");
+```
+
+Here we import the functions to set the logged in state from User and the page view state from Store.
+
+We also create the `action`, `email` and `password` states, which are used only within this component and thus aren't stored in either context.
+
+These local states have been updated by the form. The action was set by the button clicked, and the email and password have been updated by the input fields.
+
+```tsx
+const handleSubmit = async (e) => {
+	e.preventDefault();
+
+	if (!email || !password) {
+		alert('Please fill in both email and password');
+		return;
+	}
+```
+
+So first we've prevented the default action of the form, and checked that both email and password have been entered. If not, we get an alert popup which can be dismissed by the user. A convenient side effect of this is that the user doesn't have that horrible experience of mistyping one field then having to re-enter the whole form.
+
+```tsx
+	const server = 'http://localhost:3000/auth/';
+	const route = ((action === 'login') ? 'log-in' : 'sign-up');
+	const endpoint = `${server}${route}`;
+```
+
+We then set the endpoint to the correct route based on the action.
+
+```tsx
+	const username = email.match(/^([^@]+)/)?.[1] || '';
+
+	let body;
+	if (action === 'login') {
+		body = { email, password };
+	} else {
+		body = { username, email, password };
+	}
+```
+
+Late in the process, I realised that the backend's `sign-up` route was expecting a `username` field. Rather than add a new component and all the logic, I knocked up and quick and dirty regex that sets the username by extracting the text before the "@" in the email address.
+
+We then set the body of the request by using our `action` state to decide which fields to include.
+
+```tsx
+
+	try {
+		const response = await fetch(endpoint, {
+			/* this block includes the session cookie */
+		});
+
+		if (response.ok) {
+			alert(`${action} successful`);
+			setIsLoggedIn(true);
+			setView('landing');
+		} else {
+			const errorText = await response.text();
+			alert(`${action} failed: ${errorText}`);
+		}
+	} catch (error) {
+		alert(`Error during ${action}: ${error.message}`);
+	}
+}
+```
+
+Finally, we have success actions & two types of error handling; server errors & user errors.
+
+- The `try { if(response.ok) }` block will fire if the fetch request is successful & the user's inputs are accepted; it confirms this to the user, sets the logged in state and redirects to the landing page.
+- The `try { else }` block will fire if the fetch request is successful but the user's inputs are rejected; it confirms this to the user, states which details aren't accepted and stays on the same page.
+- The `catch` block will fire if there is an error with the fetch request itself.
 
 ---
 </details>
@@ -120,15 +262,13 @@ export default LogButtonQuantum
 ## 2. Difficulties
 
 <details>
-<summary>TO FINISH: AWS Bollocks</summary>
+<summary>The AWS Guide Writer is a Psychopath</summary>
 
 ---
 
-xxx
-
 ![get in the sea 1](../assets/images/images_07/cdk1.jpg)
 
-> trolololol
+So I absolutely hated this tutorial, because it commits the one sin that most aggravates me in instructional design: I was able to complete the entire exercise with no mistakes and come out the other side with absolutely no ability to use those principles in my own work. What did I just do?
 
 ![get in the sea 2](../assets/images/images_07/cdk2.jpg)
 
