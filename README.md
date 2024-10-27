@@ -22,12 +22,12 @@
 ## Part 3: In Which Jason Fully Embraces Capitalism
 
 - [Chapter 6: *Step 1: Data • Step 2: <sup>mumble</sup> • Step 3: Profit!*](logs/Week_06.md)
+- [Chapter 7: *YOU SHALL NOT PASS*](logs/Week_07.md)
 
 ---
 
 ## Watch This Space for Exciting Future Installments
 
-- [Chapter 7](logs/Week_07.md)
 - [Chapter 8](logs/Week_08.md)
 - [Chapter 9](logs/Week_09.md)
 - [Chapter 10](logs/Week_10.md)
