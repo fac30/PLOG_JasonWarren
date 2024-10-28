@@ -275,6 +275,20 @@ So I absolutely hated this tutorial, because it commits the one sin that most ag
 ---
 </details>
 
+<details>
+<summary>Working Usefully with Tech for Better Product Owners</summary>
+
+---
+
+I found that it was difficult to get started with the exercise, due to the following:
+
+- There were slightly different interpretations of what the exercise was asking for.
+- We were being polite to each other and trying not to dominate the conversation.
+- It's unclear to what extent we were expected to contribute ideas or highlight issues.
+
+---
+</details>
+
 ---
 
 ## 3. Full Progress List
