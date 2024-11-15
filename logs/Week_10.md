@@ -1,4 +1,4 @@
-# Week X: xxx
+# Week 10: C# & .Net
 
 - [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/)
 

@@ -1,4 +1,4 @@
-# Week X: xxx
+# Week 9: Reading Week
 
 - [Learning Outcomes](https://learn.foundersandcoders.com/course/syllabus/developer/)
 
