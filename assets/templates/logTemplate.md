@@ -4,31 +4,29 @@
 
 ## 1. Achievements
 
----
-
-## 2. Difficulties
-
----
-
-## 3. Full Progress List
-
 <details>
-<summary>Expand Key</summary>
+<summary>Name of Achievement</summary>
 
 ---
 
-- [X] **I feel like I've learned/demonstrated this skill in the past week**
-- [X] *I have acquired some skill but need to develop further*
-- [ ] I am not yet comfortable in this skill
+- Content for achievement
 
 ---
 </details>
 
-### List
+## 2. Difficulties
+
+<details>
+<summary>Toggle List</summary>
 
 ---
 
-## 4. AI Review
+- List of difficulties
+
+---
+</details>
+
+## 3. AI Review
 
 Each week, after writing the log, I give my IDE's AI the following prompt:
 
@@ -49,7 +47,7 @@ Here's its response:
 
 ---
 
-## 5. Feedback
+## 4. Feedback
 
 |                  |                         |
 | ---------------- | ----------------------- |

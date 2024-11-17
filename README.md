@@ -27,7 +27,7 @@
 
 ### Interlude: In Which Jason Starts Strong Before Enthusiastically Diving Down a Rabbit Hole
 
-- [Chapter 9: *Coming Soon*](assets/templates/dummy.md)
+- [Chapter 9: *From TypeScript to C#: A Tale of Many Semicolons*](logs/Week_09.md)
 
 ---
 

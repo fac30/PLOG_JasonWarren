@@ -16,7 +16,14 @@ Use this context when analyzing progress logs or looking back on work.
 4. Ask clarifying questions
 5. Prioritize learning over validation
 
-### 1C. Progress Log Analysis
+### 1C. Rules for Analysis Progress
+
+1. Track technical evolution across logs
+2. Note recurring patterns in problem-solving approaches
+3. Identify consistent documentation structures
+4. Observe how solutions integrate with broader project context
+
+### 1D. Rules for Writing Progress Logs
 
 1. Study the author's voice before attempting emulation:
    - Vocabulary patterns
@@ -24,11 +31,7 @@ Use this context when analyzing progress logs or looking back on work.
    - Technical explanation style
    - Use of humor and asides
    - Documentation patterns
-2. When analyzing progress:
-   - Track technical evolution across logs
-   - Note recurring patterns in problem-solving approaches
-   - Identify consistent documentation structures
-   - Observe how solutions integrate with broader project context
+2. Link new learnings to previous logs
 3. When emulating style:
    - Use only vocabulary evidenced in original logs
    - Mirror the author's specific documentation patterns
@@ -45,13 +48,9 @@ Use this context when analyzing progress logs or looking back on work.
    - Maintain consistent detail tag structure
    - Follow author's code presentation format
    - Mirror author's use of visual aids
-
-### 1D. Additional Rules for Writing
-
-1. Do not make up web links
-2. Link new learnings to previous logs
-3. Ask clarifying questions about uncertain attributions
-4. Maintain technical precision while preserving author voice
+6. Do not make up web links
+7. Ask clarifying questions about uncertain attributions
+8. Maintain technical precision while preserving author voice
 
 ---
 
