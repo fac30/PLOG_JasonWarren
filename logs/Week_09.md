@@ -188,8 +188,9 @@ This evaluation suggests significant progress in architectural thinking and lear
 
 ## 4. Feedback
 
-|                  |                         |
-| ---------------- | ----------------------- |
-| *Name*           |                         |
-| *What Went Well* |                         |
-| *Even Better If* |                         |
+*Name*
+Alexander
+
+*What Went Well*
+Interesting experiment.
+Excellent systematic approach to learning C# through practical coding - starting with basic API endpoints and progressing to more complex object-oriented concepts through the RPG project. 
