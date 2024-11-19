@@ -338,8 +338,11 @@ I found that it was difficult to get started with the exercise, due to the follo
 
 ## 4. Feedback
 
-|                  |                         |
-| ---------------- | ----------------------- |
-| *Name*           |                         |
-| *What Went Well* |                         |
-| *Even Better If* |                         |
+
+*Name*
+Alexander
+*What Went Well*
+Outstanding documentation of problem-solving process, particularly with the event bubbling issue. Strong practical implementation of React components with clear examples of state management and form handling. The 'Quantum' components show good understanding of conditional rendering.
+
+*Even Better If*
+Complete your React Router section, since it seems that's the main React learning outcome you haven't covered yet.
